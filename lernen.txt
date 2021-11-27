@@ -1,0 +1,5 @@
+Konfiguration:
+1. Ordner erstellen z.B. git-lernen
+2. cd git-lernen
+3. git init   // initialized empty Git repository
+4. git status // überprüfen
