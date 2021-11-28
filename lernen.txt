@@ -1,5 +1,13 @@
 Konfiguration:
 1. Ordner erstellen z.B. git-lernen
 2. cd git-lernen
-3. git init   // initialized empty Git repository
-4. git status // überprüfen
+3. git init           // initialized empty Git repository
+4. git status         // überprüfen
+5. git add lernen.txt // Datei zur Staging area hinzufügen
+6. git commit -m "mein 2. Commit" // Schnappschuss erstellen
+7. Verbindung mit Remote Server erstellen
+   git remote add origin2 https://github.com/waltschm/lerneprog
+8. Änderungen auf den Remote-Server übertragen
+   git push origin2 master
+   Benutzer: waltschm
+   Password: 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
